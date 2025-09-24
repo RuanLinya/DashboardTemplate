@@ -1,4 +1,6 @@
 # Dashboard Template – “Firma”
+<img width="1900" height="940" alt="image" src="https://github.com/user-attachments/assets/b2d4a377-7ce4-43de-b842-bb32b5e9b128" />
+
 
 ## 📖 Overview
 
