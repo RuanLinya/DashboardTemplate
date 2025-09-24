@@ -1,5 +1,15 @@
 # Dashboard Template – “Firma”
 <img width="1900" height="940" alt="image" src="https://github.com/user-attachments/assets/b2d4a377-7ce4-43de-b842-bb32b5e9b128" />
+<img width="1905" height="940" alt="image" src="https://github.com/user-attachments/assets/538360c5-529b-4671-8be0-aa6c9bf489be" />
+<img width="1903" height="935" alt="image" src="https://github.com/user-attachments/assets/18f68de8-d34b-44ad-a894-0f93c7900b00" />
+<img width="1900" height="904" alt="image" src="https://github.com/user-attachments/assets/d33055d2-aedc-4d5a-97a7-3f769411ecd0" />
+<img width="1898" height="937" alt="image" src="https://github.com/user-attachments/assets/7c2b0523-6239-40cd-a551-e7381b18d61f" />
+<img width="1900" height="936" alt="image" src="https://github.com/user-attachments/assets/b4c85dc6-57bd-454d-8a47-0732bb96b00a" />
+
+
+
+
+
 
 
 ## 📖 Overview
